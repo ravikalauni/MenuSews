@@ -1,0 +1,7 @@
+{
+  "name": "NepNola Digital Menu",
+  "description": "Pure customer-facing digital menu and ordering system for high-end dining.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
